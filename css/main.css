@@ -26,10 +26,12 @@ img {
 
 p {
   font-family: 'Noto Serif', serif;
+  margin: 0;
 }
 
 .name {
   font-family: 'Yesteryear', cursive;
+  margin: 0;
 }
 
 .instagram {
