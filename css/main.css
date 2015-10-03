@@ -34,7 +34,14 @@ p {
 
 .instagram {
   width: 50%;
-  
+}
+
+.twitter {
+  width: 50%;
+}
+
+.email {
+  width: 50%;
 }
 
 .social {
