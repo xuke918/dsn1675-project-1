@@ -68,4 +68,27 @@ p {
     top: 3em;
     right: 0.3em;
   }
+
+  .instagram {
+    width: 33.33%;
+    float: left;
+    padding-right: 10px;
+  }
+
+  .twitter {
+    width: 33.33%;
+    float: left;
+    padding-right: 10px;
+  }
+
+  .email {
+    width: 33.33%;
+    float: left;
+    padding-right: 10px;
+  }
+
+  .social {
+    display: inline-block;
+    margin-left: 5em;
+  }
 }
