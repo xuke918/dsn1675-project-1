@@ -102,6 +102,7 @@ p {
   }
 
   p {
+    font-size: 17px;
     padding: 20px 85px;
   }
   .instagram {
@@ -119,4 +120,39 @@ p {
   .social {
     margin-left: 8em;
   }
+}
+
+@media only screen and (min-width: 60em) {
+
+  html{
+    font-size: 120%;
+    line-height: 1.5;
+  }
+
+  .name {
+    font-size: 280px;
+    top: 2.2em;
+  }
+
+  p {
+    font-size: 19px;
+    padding: 20px 170px;
+  }
+
+  .instagram {
+    padding-right: 40px;
+  }
+
+  .twitter {
+    padding-right: 40px;
+  }
+
+  .email {
+    padding-right: 40px;
+  }
+
+  .social {
+    margin-left: 16em;
+  }
+
 }
