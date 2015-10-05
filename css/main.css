@@ -92,3 +92,31 @@ p {
     margin-left: 5em;
   }
 }
+
+@media only screen and (min-width: 35em) {
+
+  .name {
+    font-size: 130px;
+    top: 2.5em;
+    right: 0.1em;
+  }
+
+  p {
+    padding: 20px 85px;
+  }
+  .instagram {
+    padding-right: 30px;
+  }
+
+  .twitter {
+    padding-right: 30px;
+  }
+
+  .email {
+    padding-right: 30px;
+  }
+
+  .social {
+    margin-left: 8em;
+  }
+}
