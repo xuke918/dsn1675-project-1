@@ -138,6 +138,12 @@ p {
     top: 2.2em;
   }
 
+  .cut {
+    height: auto;
+    max-height: 1250px;
+    overflow: hidden;
+  }
+
   p {
     font-size: 19px;
     padding: 20px 170px;
