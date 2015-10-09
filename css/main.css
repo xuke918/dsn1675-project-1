@@ -43,6 +43,7 @@ p {
   top: 3em;
   right: 0.5em;
   display: block;
+  text-shadow: 3px 3px #FF0000;
 }
 
 .social {
