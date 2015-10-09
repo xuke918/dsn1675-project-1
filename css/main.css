@@ -144,6 +144,12 @@ p {
     overflow: hidden;
   }
 
+ .person {
+   margin-top: -25em;
+ }
+
+
+
   p {
     font-size: 19px;
     padding: 20px 170px;
