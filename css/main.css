@@ -36,11 +36,11 @@ p {
 
 .name {
   font-family: 'Yesteryear', cursive;
-  font-size: 80px;
+  font-size: 60px;
   color: #fff;
   margin: 0;
   position: absolute;
-  top: 3.5em;
+  top: 3em;
   right: 0.5em;
   display: block;
 }
