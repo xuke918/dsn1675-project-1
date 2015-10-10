@@ -37,14 +37,16 @@ p {
 .name {
   font-family: 'Yesteryear', cursive;
   font-size: 60px;
-  color: #fff;
+  color: #ff6485;
   margin: 0;
   position: absolute;
   top: 3em;
   right: 0.5em;
   display: block;
-  text-shadow: 3px 3px #FF0000;
+  text-shadow: 3px 3px #FFF;
 }
+
+
 
 .social {
   text-align: center;
@@ -73,6 +75,7 @@ p {
     top: 3em;
     right: 0.3em;
   }
+
 
   .instagram {
     width: 33.33%;
@@ -141,12 +144,13 @@ p {
 
   .cut {
     height: auto;
-    max-height: 1250px;
+    max-height: 900px;
     overflow: hidden;
   }
 
  .person {
-   margin-top: -12em;
+   margin-top: -22em;
+
  }
 
 
