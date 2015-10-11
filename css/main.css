@@ -41,15 +41,15 @@ p {
   color: #ff6485;
   margin: 0;
   position: absolute;
-  top: 2.3em;
-  right: 0.6em;
+  top: 2.8em;
+  right: 0.8em;
   display: block;
   text-shadow: 3px 3px #FFF;
 }
 
 
 .social {
-  margin: 0;
+  margin: 10px;
   padding-bottom: 15px;
   text-align: center;
 }
@@ -101,7 +101,7 @@ p {
 
 .social {
   display: inline-block;
-  margin-left: 4em;
+  margin: 0 6em;
 }
 
 }
@@ -138,7 +138,7 @@ p {
   }
 
   .social {
-    margin-left: 7em
+    margin: 0 8em
   }
 
 }
@@ -156,7 +156,7 @@ p {
   }
 
   .social {
-    margin-left: 15em;
+    margin: 0 18em;
   }
 
 }
@@ -183,7 +183,7 @@ p {
   }
 
   .social {
-    margin-left: 31em;
+    margin: 0 33em;
   }
 
 
