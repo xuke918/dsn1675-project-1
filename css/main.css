@@ -51,6 +51,7 @@ p {
 .social {
   margin: 0;
   padding-bottom: 15px;
+  text-align: center;
 }
 
 .instagram {
@@ -67,6 +68,9 @@ p {
   width: 50%;
   padding: 10px;
 }
+
+
+
 
 @media only screen and (min-width: 25em) {
 
