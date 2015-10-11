@@ -165,7 +165,7 @@ p {
 
   .name {
     font-size: 350px;
-    top: 1.1em;
+    top: 1.4em;
     right: 1em;
   }
 
@@ -174,7 +174,7 @@ p {
   }
 
 .cut {
-  max-height: 800px;
+  max-height: 900px;
   overflow: hidden;
 }
 
