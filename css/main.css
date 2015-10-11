@@ -37,12 +37,12 @@ p {
 
 .name {
   font-family: 'Yesteryear', cursive;
-  font-size: 60px;
+  font-size: 70px;
   color: #ff6485;
   margin: 0;
   position: absolute;
-  top: 3em;
-  right: 0.5em;
+  top: 2.3em;
+  right: 0.6em;
   display: block;
   text-shadow: 3px 3px #FFF;
 }
@@ -75,9 +75,9 @@ p {
 @media only screen and (min-width: 25em) {
 
   .name {
-    font-size: 85px;
+    font-size: 105px;
     top: 3em;
-    right: 0.3em;
+    right: 0.8em;
 }
 
   p {
@@ -114,6 +114,7 @@ p {
     font-size: 170px;
     top: 1.5em;
     left: 0.6em;
+    display: block;
   }
 
 
