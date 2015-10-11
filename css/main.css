@@ -48,9 +48,8 @@ p {
 }
 
 
-
 .social {
-  text-align: center;
+  margin: 0;
   padding-bottom: 15px;
 }
 
@@ -75,106 +74,32 @@ p {
     font-size: 85px;
     top: 3em;
     right: 0.3em;
-  }
-
-
-  .instagram {
-    width: 33.33%;
-    float: left;
-    padding-right: 10px;
-  }
-
-  .twitter {
-    width: 33.33%;
-    float: left;
-    padding-right: 10px;
-  }
-
-  .email {
-    width: 33.33%;
-    float: left;
-    padding-right: 10px;
-  }
-
-  .social {
-    display: inline-block;
-    margin-left: 5em;
-  }
 }
 
-@media only screen and (min-width: 35em) {
-
-  .name {
-    font-size: 130px;
-    top: 3.5em;
-    right: 0.1em;
-  }
-
   p {
-    font-size: 17px;
-    padding: 20px 85px;
-  }
-  .instagram {
-    padding-right: 30px;
+    padding: 30px;
   }
 
-  .twitter {
-    padding-right: 30px;
-  }
-
-  .email {
-    padding-right: 30px;
-  }
-
-  .social {
-    margin-left: 13em;
-  }
+.instagram {
+  width: 33.33%;
+  float: left;
+  padding-right: 10px;
+}
+.twitter {
+  width: 33.33%;
+  float: left;
+  padding-right: 10px;
 }
 
-@media only screen and (min-width: 60em) {
+.email {
+  width: 33.33%;
+  float: left;
+  padding-right: 10px;
+}
 
-  html{
-    font-size: 120%;
-    line-height: 1.5;
-  }
-
-  .name {
-    font-size: 280px;
-    top: 1.5em;
-  }
-
-  .cut {
-    height: auto;
-    max-height: 900px;
-    overflow: hidden;
-  }
-
- .person {
-   margin-top: -16em;
-
- }
-
-
-
-  p {
-    font-size: 19px;
-    padding: 20px 300px;
-  }
-
-  .instagram {
-    padding-right: 40px;
-  }
-
-  .twitter {
-    padding-right: 40px;
-  }
-
-  .email {
-    padding-right: 40px;
-  }
-
-  .social {
-    margin-left: 22em;
-  }
+.social {
+  display: inline-block;
+  margin-left: 4em;
+}
 
 }
