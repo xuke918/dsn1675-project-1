@@ -3,21 +3,29 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="-362 274.5 65.5 65.5" style="enable-background:new -362 274.5 65.5 65.5;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FF6485;}
-	.st1{fill:#FFFFFF;}
-	.st2{fill:none;stroke:#FF6485;stroke-linecap:round;stroke-miterlimit:10;}
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#FF6485;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:#FF6485;}
 	.st3{fill:none;}
 	.st4{font-family:'STKaiTi-TC-Regular';}
 	.st5{font-size:3.6127px;}
+	.st6{fill:none;stroke:url(#SVGID_1_);stroke-width:2.9295;stroke-miterlimit:10;}
 </style>
 <g>
-	<circle class="st0" cx="-329.2" cy="307.2" r="32.7"/>
+	<circle cx="-417.4" cy="307.2" r="32.7"/>
 </g>
-<path class="st1" d="M-312.9,317.8H-345c-0.1,0-0.2-0.1-0.2-0.2V299c0-0.3,0.2-0.5,0.5-0.5h31.3c0.3,0,0.6,0.3,0.6,0.6v18.5
+<path class="st0" d="M-312.9,317.8H-345c-0.1,0-0.2-0.1-0.2-0.2V299c0-0.3,0.2-0.5,0.5-0.5h31.3c0.3,0,0.6,0.3,0.6,0.6v18.5
 	C-312.8,317.8-312.8,317.8-312.9,317.8z"/>
-<polyline class="st2" points="-344.7,299 -329,306.5 -313.2,299 "/>
-<path class="st0" d="M-329,304.8c0,0-0.7-2.6-3.2-1.7c0,0-1.7,0.6-1.4,2.7c0.1,0.5,0.3,1,0.6,1.4s0.9,1,1.7,1.8c0,0,1.8,1.6,2.2,2.3
+<polyline class="st1" points="-344.7,299 -329,306.5 -313.2,299 "/>
+<path class="st2" d="M-329,304.8c0,0-0.7-2.6-3.2-1.7c0,0-1.7,0.6-1.4,2.7c0.1,0.5,0.3,1,0.6,1.4s0.9,1,1.7,1.8c0,0,1.8,1.6,2.2,2.3
 	c0,0,0.7-1.1,2-2.2c0,0,2.3-1.9,2.5-3c0,0,0.7-2.4-1.6-3.1C-326.2,302.9-328,302.2-329,304.8z"/>
 <rect x="-330.8" y="304.8" class="st3" width="3.6" height="3.4"/>
-<text transform="matrix(1 0 0 1 -330.7323 307.4332)" class="st1 st4 st5">@</text>
+<text transform="matrix(1 0 0 1 -330.7323 307.4332)" class="st0 st4 st5">@</text>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-361.7625" y1="307.4332" x2="-296.7375" y2="307.4332">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.9951" style="stop-color:#FF6485"/>
+	</linearGradient>
+	<circle class="st6" cx="-329.2" cy="307.4" r="31"/>
+</g>
 </svg>

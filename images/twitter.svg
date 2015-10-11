@@ -3,16 +3,30 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="-362 274.5 65.5 65.5" style="enable-background:new -362 274.5 65.5 65.5;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FF6485;}
-	.st1{fill:#FFFFFF;}
+	.st0{fill:none;stroke:url(#SVGID_1_);stroke-width:2.9295;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#ECB6D4;stroke-width:0.9723;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
 </style>
 <g>
-	<circle class="st0" cx="-329.3" cy="307.2" r="32.7"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-361.7625" y1="307.238" x2="-296.7375" y2="307.238">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.9951" style="stop-color:#FF6485"/>
+	</linearGradient>
+	<circle class="st0" cx="-329.2" cy="307.2" r="31"/>
 </g>
 <g>
-	<path class="st1" d="M-318.8,296.7c0,0-4.1-4.1-8.8-0.3c0,0-2.7,2.2-1.8,6.2c0,0-8.1-0.3-13-6.7c0,0-3.1,4.1,1.7,8.4
+	<circle class="st1" cx="-246.4" cy="307.2" r="31.8"/>
+</g>
+<g>
+	<path class="st2" d="M-318.8,296.7c0,0-4.1-4.1-8.8-0.3c0,0-2.7,2.2-1.8,6.2c0,0-8.1-0.3-13-6.7c0,0-3.1,4.1,1.7,8.4
 		c0,0-1.8,0-2.7-0.7c0,0-0.3,4.7,4.9,6.2c0,0-1.3,0.5-2.6,0.2c0,0,0.8,3.8,5.7,4.3c0,0-4.3,3.5-9.2,2.6c0,0,9.9,6.9,20.9-1
 		c1.7-1.2,3.1-2.8,4.1-4.5c1.3-2.3,2.7-5.7,2.6-10.1c0,0,2.6-2.8,3-3.5c0,0-3.2,1.2-3.6,1c0,0,2.2-1.3,2.7-3.5
 		C-314.8,295.2-317.4,296.7-318.8,296.7z"/>
+</g>
+<g>
+	<path class="st2" d="M-235.5,296.7c0,0-4.1-4.1-8.8-0.3c0,0-2.7,2.2-1.8,6.2c0,0-8.1-0.3-13-6.7c0,0-3.1,4.1,1.7,8.4
+		c0,0-1.8,0-2.7-0.7c0,0-0.3,4.7,4.9,6.2c0,0-1.3,0.5-2.6,0.2c0,0,0.8,3.8,5.7,4.3c0,0-4.3,3.5-9.2,2.6c0,0,9.9,6.9,20.9-1
+		c1.7-1.2,3.1-2.8,4.1-4.5c1.3-2.3,2.7-5.7,2.6-10.1c0,0,2.6-2.8,3-3.5c0,0-3.2,1.2-3.6,1c0,0,2.2-1.3,2.7-3.5
+		C-231.5,295.2-234.1,296.7-235.5,296.7z"/>
 </g>
 </svg>
