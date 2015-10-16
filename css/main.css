@@ -30,7 +30,7 @@ body {
 p {
   font-family: 'Playfair Display', serif;
   margin: 0;
-  padding: 10px 17px;
+  padding: 10px 10px;
   font-size: 16px;
   color: #fff;
 }
@@ -53,7 +53,6 @@ p {
 }
 
 .instagram {
-
   width: 33.3%;
   float: left;
 }
@@ -66,6 +65,7 @@ p {
 .social {
   text-align: center;
   padding: 10px 10px 0 10px;
+  overflow: hidden;
 }
 
 @media only screen and (min-width: 25em) {
@@ -77,32 +77,38 @@ p {
   }
 
   .cut {
-    max-height: 400px;
+    max-height: 600px;
     overflow: hidden;
   }
 
   .person {
-   margin-top: -1em;
+   margin-top: -1.5em;
  }
 
-  .wrapper{
-    margin: 0 1em;
+  .wrapper {
+    padding: 1em;
  }
 
   .email {
-    width: 33.3%;
-    padding: 0 5px 0 5px;
+    width: 25%;
+    padding-left: 10px;
   }
 
   .instagram {
-    width: 33.3%;
-    padding: 0 5px 0 10px;
+    width: 25%;
+    padding-left: 10px;
   }
 
   .twitter {
-    width: 33.3%;
-    padding: 0 5px 0 10px;
+    width: 25%;
+    padding-left: 10px;
   }
+
+  .social {
+    padding-left: 60px;
+    padding-bottom: 20px;
+   }
+
 
 }
 
@@ -110,9 +116,6 @@ p {
 
   .name {
     font-size: 160px;
-    top: 0.7em;
-    right: 0.3em;
-
   }
 
   .person {
@@ -121,75 +124,110 @@ p {
 
   p {
     font-size: 17px;
-    padding: 20px 100px;
   }
 
+  .social {
+    padding-left: 100px;
+    padding-bottom: 20px;
+   }
 
-  .instagram {
-    padding-right: 30px;
+}
+
+@media only screen and (min-width: 46em){
+
+  .person {
+    margin-top: -4em;
   }
 
-  .twitter {
-    padding-right: 30px;
+  .cut {
+    max-height: 600px;
+    overflow: hidden;
+  }
+
+  p {
+    padding: 0 45px;
   }
 
   .email {
-    padding-right: 30px;
+    width: 15%;
   }
 
+  .instagram {
+    width: 15%;
+  }
 
+  .twitter {
+    width: 15%;
+  }
+
+  .social {
+    padding-top: 20px;
+    padding-left: 250px;
+   }
 
 }
+
 
 @media only screen and (min-width: 50em){
 
   .name {
-    font-size: 255px;
-    top: 2em;
-    right: 0.5em;
+    font-size: 225px;
+    top: 0.5em;
+    right: 0.2em;
   }
 
   p {
-    padding: 20px 130px;
+    font-size: 17px;
+    padding-left: 120px;
+    padding-right: 120px;
   }
 
+  .person {
+    margin-top: -4em;
+  }
+
+  .cut {
+    max-height: 570px;
+    overflow: hidden;
+  }
+
+  .email {
+    padding-left: 20px;
+  }
+
+  .instagram {
+    padding-left: 20px;
+  }
+
+  .twitter {
+    padding-left: 20px;
+  }
+
+  .social {
+    padding-left: 270px;
+   }
 
 }
+
 
 @media only screen and (min-width: 60em){
 
   .name {
-    font-size: 350px;
-    top: 1.4em;
-    right: 1em;
+    font-size: 270px;
+    top: 0.3em;
   }
 
   .person {
-    margin-top: -13em;
+    margin-top: -6em;
   }
 
-.cut {
-  max-height: 900px;
-  overflow: hidden;
-}
+  .cut {
+    max-height: 800px;
+    overflow: hidden;
+ }
 
-  p {
-    padding: 20px 280px;
+ .social {
+   padding-left: 350px;
   }
-
-}
-
-
-@media only screen and (min-width: 62em) {
-
-  .name {
-    font-size: 500px;
-    top: 0em;
-    right: 0em;
-  }
-
-
-
-
 
 }
