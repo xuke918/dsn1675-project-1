@@ -48,24 +48,24 @@ p {
 }
 
 .email {
-  width: 25%;
-  padding: 0 5px 10px 0;
+  width: 33.3%;
+  float: left;
 }
 
 .instagram {
-  width: 25%;
-  padding: 0 5px 10px 0;
+
+  width: 33.3%;
+  float: left;
 }
 
 .twitter {
-  width: 25%;
-  padding: 0 5px 10px 0;
+  width: 33.3%;
+  float: left;
 }
 
 .social {
   text-align: center;
-  padding: 10px;
-  margin: 0;
+  padding: 10px 10px 0 10px;
 }
 
 @media only screen and (min-width: 25em) {
@@ -73,10 +73,7 @@ p {
   .name {
     font-size: 125px;
     top: 1em;
-}
-
-  p {
-    padding: 30px;
+    right: 0.3em;
   }
 
   .cut {
@@ -84,21 +81,28 @@ p {
     overflow: hidden;
   }
 
-.social {
-  margin: 0 10px;
-}
+  .person {
+   margin-top: -1em;
+ }
 
-.email {
-  width: 20%;
-}
+  .wrapper{
+    margin: 0 1em;
+ }
 
-.instagram {
-  width: 20%;
-}
+  .email {
+    width: 33.3%;
+    padding: 0 5px 0 5px;
+  }
 
-.twitter {
-  width: 20%;
-}
+  .instagram {
+    width: 33.3%;
+    padding: 0 5px 0 10px;
+  }
+
+  .twitter {
+    width: 33.3%;
+    padding: 0 5px 0 10px;
+  }
 
 }
 
@@ -172,8 +176,6 @@ p {
   p {
     padding: 20px 280px;
   }
-
-
 
 }
 
