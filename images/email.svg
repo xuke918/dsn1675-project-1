@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 249.8 249.8" style="enable-background:new 0 0 249.8 249.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A09F9F;stroke:url(#SVGID_1_);stroke-width:9;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#F16485;stroke-width:5;stroke-miterlimit:10;}
+	.st3{fill:#F16485;stroke:#F16485;stroke-width:1.5509;stroke-miterlimit:10;}
+	.st4{fill:#F16485;stroke:#FFFFFF;stroke-width:6;stroke-miterlimit:10;}
+	.st5{fill:#F16485;}
+	.st6{fill:none;stroke:#F16485;stroke-width:3;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#F16485;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	.st8{fill:none;}
+	.st9{font-family:'STKaiTi-TC-Regular';}
+	.st10{font-size:17.8922px;}
+</style>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="793.8397" y1="737.9849" x2="1038.3293" y2="737.9849" gradientTransform="matrix(-1 0 0 -1 1043.34 863.84)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.9951" style="stop-color:#F16485"/>
+	</linearGradient>
+	<circle class="st0" cx="127.1" cy="125.9" r="117.6"/>
+</g>
+<g>
+	<path class="st1" d="M-209.7,307.6h-80.6c-10.9,0-19.9-9-19.9-19.9V212c0-10.9,9-19.9,19.9-19.9h80.2c10.9,0,19.9,9,19.9,19.9v75.7
+		C-190.2,298.6-198.9,307.6-209.7,307.6z"/>
+	<line class="st2" x1="-309.8" y1="224.7" x2="-190.2" y2="224.7"/>
+	<circle class="st3" cx="-250.2" cy="251.7" r="31.9"/>
+	<circle class="st4" cx="-250.2" cy="251.7" r="22.5"/>
+	<rect x="-212.7" y="203" class="st5" width="14.6" height="14.6"/>
+	<line class="st6" x1="-296.7" y1="194.4" x2="-296.7" y2="212"/>
+	<line class="st6" x1="-291.4" y1="192.5" x2="-291.4" y2="212"/>
+	<line class="st6" x1="-285.8" y1="192.5" x2="-285.8" y2="212"/>
+</g>
+<path class="st1" d="M189,166.8H65.5c-0.4,0-0.8-0.4-0.8-0.8V94.4c0-1.2,0.8-1.9,1.9-1.9h120.4c1.2,0,2.3,1.2,2.3,2.3V166
+	C189.4,166.8,189.4,166.8,189,166.8z"/>
+<polyline class="st7" points="66.7,94.4 127.1,123.3 187.9,94.4 "/>
+<path class="st5" d="M127.1,114.1c0,0-3.5-12.9-15.8-8.4c0,0-8.4,3-6.9,13.4c0.5,2.5,1.5,5,3,6.9c1.5,2,4.5,5,8.4,8.9
+	c0,0,8.9,7.9,10.9,11.4c0,0,3.5-5.4,9.9-10.9c0,0,11.4-9.4,12.4-14.9c0,0,3.5-11.9-7.9-15.4C141,104.7,132.1,101.2,127.1,114.1z"/>
+<rect x="118.2" y="114.1" class="st8" width="17.8" height="16.8"/>
+<text transform="matrix(1 0 0 1 118.5604 127.1224)" class="st1 st9 st10">@</text>
+</svg>
