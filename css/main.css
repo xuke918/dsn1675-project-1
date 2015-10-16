@@ -163,7 +163,6 @@ p {
     padding-right: 45px;
   }
 
-
   .social {
     padding-left: 150px;
    }
@@ -172,20 +171,39 @@ p {
 
 @media only screen and (min-width: 54em){
 
+  .person {
+    margin-top: -9em;
+  }
+
+  .cut {
+    max-height: 500px;
+  }
+
+  .instagram {
+    width: 20%;
+  }
+  .twitter{
+    width: 20%;
+  }
+  .email {
+    width: 20%;
+  }
 
 }
+
+
 
 @media only screen and (min-width: 60em){
 
   .name {
-    font-size: 280px;
+    font-size: 190px;
     top: 0.9em;
   }
 
   p {
     font-size: 19px;
-    padding-left: 140px;
-    padding-right: 140px;
+    padding-left: 80px;
+    padding-right: 80px;
   }
 
   .person {
@@ -193,41 +211,13 @@ p {
   }
 
   .cut {
-    max-height: 700px;
+    max-height: 500px;
  }
-
-  .email {
-   width: 10%;
-  }
-
-  .instagram {
-   width: 10%;
- }
-
-  .twitter {
-   width: 10%;
-  }
 
   .social {
-   padding-left: 450px;
+   padding-left: 280px;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
