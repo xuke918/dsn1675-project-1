@@ -179,42 +179,6 @@ p {
 }
 
 
-@media only screen and (min-width: 50em){
-
-  .name {
-    font-size: 200px;
-    top: 1em;
-  }
-
-  p {
-    font-size: 17px;
-    padding-left: 50px;
-    padding-right: 50px;
-  }
-
-  .person {
-    margin-top: -9em;
-  }
-
-
-
-  .email {
-    width: 15%;
-  }
-
-  .instagram {
-    width: 15%;
-  }
-
-  .twitter {
-    width: 15%;
-  }
-
-  .social {
-    padding-left: 220px;
-   }
-
-}
 
 
 @media only screen and (min-width: 60em){
@@ -231,7 +195,7 @@ p {
   }
 
   .person {
-    margin-top: -10rem;
+    margin-top: -8rem;
   }
 
   .cut {
