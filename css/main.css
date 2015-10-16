@@ -222,7 +222,7 @@ p {
     top: 0.6em;
   }
   .cut {
-    max-height: 550px;
+    max-height: 480px;
  }
   .person {
     margin-top: -10rem;
@@ -232,17 +232,9 @@ p {
     padding-left: 100px;
     padding-right: 100px;
   }
-  .instagram {
-    width: 10%;
-  }
-  .twitter{
-    width: 10%;
-  }
-  .email {
-    width: 10%;
-  }
+
   .social {
-   padding-left: 480px;
+   padding-left: 380px;
   }
 }
 
