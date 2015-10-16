@@ -213,8 +213,14 @@ p {
 @media only screen and (min-width: 60em){
 
   .name {
-    font-size: 270px;
+    font-size: 350px;
     top: 0.3em;
+  }
+
+  p {
+    font-size: 19px;
+    padding-left: 200px;
+    padding-right: 200px;
   }
 
   .person {
@@ -227,7 +233,12 @@ p {
  }
 
  .social {
-   padding-left: 350px;
+   padding-left: 450px;
   }
+}
 
+@media print {
+  .person{
+    display: none;
+  }
 }
