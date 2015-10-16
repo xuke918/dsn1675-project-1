@@ -196,7 +196,7 @@ p {
     margin-top: -9em;
   }
 
-  
+
 
   .email {
     width: 15%;
@@ -235,12 +235,22 @@ p {
   }
 
   .cut {
-    max-height: 530px;
+    max-height: 700px;
+ }
+ .email {
+   width: 10%;
  }
 
+ .instagram {
+   width: 10%;
+ }
+
+ .twitter {
+   width: 10%;
+ }
 
  .social {
-   padding-left: 350px;
+   padding-left: 480px;
   }
 }
 
