@@ -193,13 +193,22 @@ p {
   }
 
   .person {
-    margin-top: -6em;
+    margin-top: -9em;
   }
 
-  .cut {
-    max-height: 460px;
+  
+
+  .email {
+    width: 15%;
   }
 
+  .instagram {
+    width: 15%;
+  }
+
+  .twitter {
+    width: 15%;
+  }
 
   .social {
     padding-left: 220px;
@@ -229,17 +238,7 @@ p {
     max-height: 530px;
  }
 
- .email {
-   width: 15%;
- }
 
- .instagram {
-   width: 15%;
- }
-
- .twitter {
-   width: 15%;
- }
  .social {
    padding-left: 350px;
   }
