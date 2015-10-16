@@ -200,20 +200,6 @@ p {
     max-height: 460px;
   }
 
-  .email {
-    padding-left: 20px;
-    width: 15%;
-  }
-
-  .instagram {
-    padding-left: 20px;
-    width: 15%;
-  }
-
-  .twitter {
-    padding-left: 20px;
-    width: 15%;
-  }
 
   .social {
     padding-left: 220px;
@@ -225,8 +211,8 @@ p {
 @media only screen and (min-width: 60em){
 
   .name {
-    font-size: 300px;
-    top: 0.5em;
+    font-size: 250px;
+    top: 0.8em;
   }
 
   p {
@@ -236,28 +222,26 @@ p {
   }
 
   .person {
-    margin-top: -18rem;
+    margin-top: -10rem;
   }
 
   .cut {
-    max-height: 660px;
+    max-height: 530px;
  }
 
  .email {
-   width: 10%;
+   width: 15%;
  }
 
  .instagram {
-   width: 10%;
+   width: 15%;
  }
 
  .twitter {
-
-   width: 10%;
+   width: 15%;
  }
-
  .social {
-   padding-left: 500px;
+   padding-left: 350px;
   }
 }
 
@@ -271,7 +255,6 @@ p {
    display: none;
  }
 
-
    .email {
      width: 10%;
    }
@@ -283,9 +266,5 @@ p {
    .twitter {
      width: 10%;
    }
-
- .social{
-   padding-left: 16em;
- }
 
 }
