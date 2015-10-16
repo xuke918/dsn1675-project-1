@@ -223,7 +223,7 @@ p {
 @media only screen and (min-width: 60em){
 
   .name {
-    font-size: 270px;
+    font-size: 280px;
     top: 0.9em;
     right: 0.1em;
   }
@@ -255,7 +255,7 @@ p {
  }
 
  .social {
-   padding-left: 400px;
+   padding-left: 500px;
   }
 }
 
