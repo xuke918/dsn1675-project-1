@@ -219,8 +219,36 @@ p {
   }
 }
 
+@media only screen and (min-width: 72em){
 
+  .name {
+    font-size: 240px;
+    top: 0.6em;
+  }
+  .cut {
+    max-height: 550px;
+ }
+  .person {
+    margin-top: -10rem;
+  }
 
+  p {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  .instagram {
+    width: 10%;
+  }
+  .twitter{
+    width: 10%;
+  }
+  .email {
+    width: 10%;
+  }
+  .social {
+   padding-left: 480px;
+  }
+}
 
 
 @media print {
