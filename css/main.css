@@ -50,19 +50,19 @@ p {
 .email {
   width: 33.3%;
   float: left;
-  padding: 5px;
+  padding: 15px;
 }
 
 .instagram {
   width: 33.3%;
   float: left;
-  padding: 5px;
+  padding: 15px;
 }
 
 .twitter {
   width: 33.3%;
   float: left;
-  padding: 5px;
+  padding: 15px;
 }
 
 .social {
@@ -221,11 +221,13 @@ p {
     font-size: 240px;
     top: 0.6em;
   }
-  .cut {
-    max-height: 480px;
- }
+
   .person {
     margin-top: -10rem;
+  }
+
+  .cut {
+    max-height: 700px;
   }
 
   p {
@@ -235,6 +237,16 @@ p {
 
   .social {
    padding-left: 380px;
+  }
+
+  .instagram {
+    width: 15%;
+  }
+  .twitter{
+    width: 15%;
+  }
+  .email {
+    width: 15%;
   }
 }
 
